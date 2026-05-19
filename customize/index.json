@@ -1,0 +1,30 @@
+{
+  "backgrounds": [
+    {
+      "id": "cute1_bg",
+      "title": "Cute Room",
+      "imageUrl": "https://lds1202.github.io/livewall/customize/backgrounds/cute1-background.png",
+      "thumbnailUrl": "https://lds1202.github.io/livewall/customize/backgrounds/cute1-background.png"
+    },
+    {
+      "id": "cute2_bg",
+      "title": "Soft Room",
+      "imageUrl": "https://lds1202.github.io/livewall/customize/backgrounds/cute2-background.png",
+      "thumbnailUrl": "https://lds1202.github.io/livewall/customize/backgrounds/cute2-background.png"
+    }
+  ],
+  "characters": [
+    {
+      "id": "cute1_character",
+      "title": "Tiny Buddy",
+      "imageUrl": "https://lds1202.github.io/livewall/customize/characters/cute1/character.png",
+      "thumbnailUrl": "https://lds1202.github.io/livewall/customize/characters/cute1/character.png"
+    },
+    {
+      "id": "cute2_character",
+      "title": "Soft Friend",
+      "imageUrl": "https://lds1202.github.io/livewall/customize/characters/cute2/character.png",
+      "thumbnailUrl": "https://lds1202.github.io/livewall/customize/characters/cute2/character.png"
+    }
+  ]
+}
