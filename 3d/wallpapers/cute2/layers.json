@@ -1,0 +1,22 @@
+{
+    "mode":  "hybrid",
+    "title":  "Cozy Fox",
+    "thumbnail":  "thumbnail.png",
+    "image":  "background.png",
+    "depthMap":  "depth.png",
+    "subject":  "subject.png",
+    "subjectDepth":  0.94,
+    "subjectAnchorX":  0.5,
+    "subjectAnchorY":  0.88,
+    "subjectMotionX":  0.08,
+    "subjectMotionY":  0.0,
+    "backgroundMotionX":  0.18,
+    "backgroundMotionY":  0.0,
+    "subjectPivotRotationDegrees":  4.8,
+    "subjectScaleByTilt":  0.09,
+    "layers":  [
+
+               ],
+    "subjectBreathAmplitudeYRatio":  0.006,
+    "subjectBreathPeriodMs":  2800
+}

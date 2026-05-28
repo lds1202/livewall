@@ -1,0 +1,37 @@
+{
+    "mode":  "hybrid",
+    "title": "NONO cute13 - Cute 13",
+    "thumbnail":  "thumbnail.png",
+    "image":  "background.png",
+    "depthMap":  "depth.png",
+    "subject":  "subject1.png",
+    "subjectDepth":  0.94,
+    "subjectAnchorX":  0.5,
+    "subjectAnchorY":  0.88,
+    "subjectMotionX":  0.08,
+    "subjectMotionY":  0.0,
+    "backgroundMotionX":  0.18,
+    "backgroundMotionY":  0.0,
+    "subjectPivotRotationDegrees":  4.8,
+    "subjectScaleByTilt":  0.09,
+    "blinkFrames":  [
+                        "blink_closed.png"
+                    ],
+    "winkFrames":  [
+                       "wink.png"
+                   ],
+    "blinkCloseMs":  90,
+    "blinkClosedMs":  86,
+    "blinkOpenMs":  120,
+    "faceEventSlotMs":  1680,
+    "faceEventSkipPercent":  30,
+    "winkEventPercent":  33,
+    "faceEventStartMinMs":  250,
+    "faceEventStartSpreadMs":  1200,
+    "faceEventSeed":  2625814,
+    "layers":  [
+
+               ],
+    "subjectBreathAmplitudeYRatio":  0.006,
+    "subjectBreathPeriodMs":  2800
+}

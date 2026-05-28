@@ -1,3 +1,873 @@
-{
-  "packs": []
+﻿{
+    "packs":  [
+                  {
+                      "id":  "cute1",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/cute1",
+                      "mode":  "hybrid",
+                      "title":  "Pastel Kitten",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject.png",
+                      "subjectMask":  "subject_mask.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.6,
+                      "subjectScaleByTilt":  0.09,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920060000
+                  },
+                  {
+                      "id":  "cute2",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/cute2",
+                      "mode":  "hybrid",
+                      "title":  "Cozy Fox",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920120000
+                  },
+                  {
+                      "id":  "cute3",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/cute3",
+                      "mode":  "hybrid",
+                      "title":  "Blinking Cutie",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "blinkHoldOpenMs":  2500,
+                      "blinkCloseMs":  96,
+                      "blinkClosedMs":  90,
+                      "blinkOpenMs":  120,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920180000
+                  },
+                  {
+                      "id":  "cute4",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/cute4",
+                      "mode":  "hybrid",
+                      "title":  "Blinking Buddy",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "blinkHoldOpenMs":  2500,
+                      "blinkCloseMs":  96,
+                      "blinkClosedMs":  90,
+                      "blinkOpenMs":  120,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920240000
+                  },
+                  {
+                      "id":  "nono1",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono1",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute10 - Cute 10",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  112,
+                      "blinkClosedMs":  92,
+                      "blinkOpenMs":  140,
+                      "faceEventSlotMs":  2070,
+                      "faceEventSkipPercent":  18,
+                      "winkEventPercent":  24,
+                      "faceEventStartMinMs":  160,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2333221,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920060000
+                  },
+                  {
+                      "id":  "nono10",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono10",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute19 - Pool Cat",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  46,
+                      "blinkClosedMs":  48,
+                      "blinkOpenMs":  58,
+                      "faceEventSlotMs":  3800,
+                      "faceEventSkipPercent":  36,
+                      "winkEventPercent":  10,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2200,
+                      "faceEventSeed":  1824862,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779926520000
+                  },
+                  {
+                      "id":  "nono11",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono11",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute20 - Flower Cat",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  46,
+                      "blinkClosedMs":  48,
+                      "blinkOpenMs":  58,
+                      "faceEventSlotMs":  3800,
+                      "faceEventSkipPercent":  36,
+                      "winkEventPercent":  10,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2200,
+                      "faceEventSeed":  1962293,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779926580000
+                  },
+                  {
+                      "id":  "nono12",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono12",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute21 - Rainbow Unicorn",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  46,
+                      "blinkClosedMs":  48,
+                      "blinkOpenMs":  58,
+                      "faceEventSlotMs":  3800,
+                      "faceEventSkipPercent":  36,
+                      "winkEventPercent":  10,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2200,
+                      "faceEventSeed":  2099724,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779926640000
+                  },
+                  {
+                      "id":  "nono13",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono13",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute22 - Patio Alpaca",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  46,
+                      "blinkClosedMs":  48,
+                      "blinkOpenMs":  58,
+                      "faceEventSlotMs":  3800,
+                      "faceEventSkipPercent":  36,
+                      "winkEventPercent":  10,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2200,
+                      "faceEventSeed":  2237155,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779926700000
+                  },
+                  {
+                      "id":  "nono14",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono14",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute23 - Safari Lion",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  46,
+                      "blinkClosedMs":  48,
+                      "blinkOpenMs":  58,
+                      "faceEventSlotMs":  3800,
+                      "faceEventSkipPercent":  36,
+                      "winkEventPercent":  10,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2200,
+                      "faceEventSeed":  2374586,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779926760000
+                  },
+                  {
+                      "id":  "nono15",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono15",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute5 - Beach Alpaca",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  46,
+                      "blinkClosedMs":  48,
+                      "blinkOpenMs":  58,
+                      "faceEventSlotMs":  3800,
+                      "faceEventSkipPercent":  36,
+                      "winkEventPercent":  10,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2200,
+                      "faceEventSeed":  1550000,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779926400000
+                  },
+                  {
+                      "id":  "nono16",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono16",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute6 - Winking Cutie",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  96,
+                      "blinkClosedMs":  90,
+                      "blinkOpenMs":  120,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920960000
+                  },
+                  {
+                      "id":  "nono17",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono17",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute7 - Cute 7",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  92,
+                      "blinkClosedMs":  82,
+                      "blinkOpenMs":  118,
+                      "faceEventSlotMs":  1650,
+                      "faceEventSkipPercent":  22,
+                      "winkEventPercent":  31,
+                      "faceEventStartMinMs":  220,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2040628,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779921020000
+                  },
+                  {
+                      "id":  "nono18",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono18",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute8 - Cute 8",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  104,
+                      "blinkClosedMs":  96,
+                      "blinkOpenMs":  132,
+                      "faceEventSlotMs":  1940,
+                      "faceEventSkipPercent":  15,
+                      "winkEventPercent":  22,
+                      "faceEventStartMinMs":  250,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2138159,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779921080000
+                  },
+                  {
+                      "id":  "nono19",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono19",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute9 - Cute 9",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  88,
+                      "blinkClosedMs":  88,
+                      "blinkOpenMs":  124,
+                      "faceEventSlotMs":  1720,
+                      "faceEventSkipPercent":  27,
+                      "winkEventPercent":  35,
+                      "faceEventStartMinMs":  280,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2235690,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779921140000
+                  },
+                  {
+                      "id":  "nono2",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono2",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute11 - Cute 11",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  96,
+                      "blinkClosedMs":  78,
+                      "blinkOpenMs":  116,
+                      "faceEventSlotMs":  1810,
+                      "faceEventSkipPercent":  25,
+                      "winkEventPercent":  29,
+                      "faceEventStartMinMs":  190,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2430752,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920120000
+                  },
+                  {
+                      "id":  "nono3",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono3",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute12 - Sailor Puppy",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  46,
+                      "blinkClosedMs":  48,
+                      "blinkOpenMs":  58,
+                      "faceEventSlotMs":  3800,
+                      "faceEventSkipPercent":  36,
+                      "winkEventPercent":  10,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2200,
+                      "faceEventSeed":  1687431,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779926460000
+                  },
+                  {
+                      "id":  "nono4",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono4",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute13 - Cute 13",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  90,
+                      "blinkClosedMs":  86,
+                      "blinkOpenMs":  120,
+                      "faceEventSlotMs":  1680,
+                      "faceEventSkipPercent":  30,
+                      "winkEventPercent":  33,
+                      "faceEventStartMinMs":  250,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2625814,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920240000
+                  },
+                  {
+                      "id":  "nono5",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono5",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute14 - Cute 14",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  116,
+                      "blinkClosedMs":  94,
+                      "blinkOpenMs":  144,
+                      "faceEventSlotMs":  2130,
+                      "faceEventSkipPercent":  20,
+                      "winkEventPercent":  26,
+                      "faceEventStartMinMs":  280,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2723345,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920300000
+                  },
+                  {
+                      "id":  "nono6",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono6",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute15 - Cute 15",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  100,
+                      "blinkClosedMs":  90,
+                      "blinkOpenMs":  128,
+                      "faceEventSlotMs":  1890,
+                      "faceEventSkipPercent":  12,
+                      "winkEventPercent":  21,
+                      "faceEventStartMinMs":  160,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2820876,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920360000
+                  },
+                  {
+                      "id":  "nono7",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono7",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute16 - Cute 16",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  86,
+                      "blinkClosedMs":  84,
+                      "blinkOpenMs":  122,
+                      "faceEventSlotMs":  1760,
+                      "faceEventSkipPercent":  28,
+                      "winkEventPercent":  37,
+                      "faceEventStartMinMs":  190,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  2918407,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920420000
+                  },
+                  {
+                      "id":  "nono8",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono8",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute17 - Cute 17",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  110,
+                      "blinkClosedMs":  100,
+                      "blinkOpenMs":  138,
+                      "faceEventSlotMs":  2040,
+                      "faceEventSkipPercent":  16,
+                      "winkEventPercent":  23,
+                      "faceEventStartMinMs":  220,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  3015938,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920480000
+                  },
+                  {
+                      "id":  "nono9",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/nono9",
+                      "mode":  "hybrid",
+                      "title":  "NONO cute18 - Cute 18",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.94,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.88,
+                      "subjectMotionX":  0.08,
+                      "subjectMotionY":  0.0,
+                      "backgroundMotionX":  0.18,
+                      "backgroundMotionY":  0.0,
+                      "subjectPivotRotationDegrees":  4.8,
+                      "subjectScaleByTilt":  0.09,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  94,
+                      "blinkClosedMs":  80,
+                      "blinkOpenMs":  126,
+                      "faceEventSlotMs":  1860,
+                      "faceEventSkipPercent":  24,
+                      "winkEventPercent":  30,
+                      "faceEventStartMinMs":  250,
+                      "faceEventStartSpreadMs":  1200,
+                      "faceEventSeed":  3113469,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.006,
+                      "subjectBreathPeriodMs":  2800,
+                      "updatedAt":  1779920540000
+                  }
+              ]
 }
