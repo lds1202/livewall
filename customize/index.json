@@ -26,5 +26,13 @@
       "imageUrl": "https://lds1202.github.io/livewall/customize/characters/cute2/character.png",
       "thumbnailUrl": "https://lds1202.github.io/livewall/customize/characters/cute2/character.png"
     }
+  ],
+  "phrases": [
+    {
+      "id": "you_can_do_it_phrase",
+      "title": "You Can Do It",
+      "imageUrl": "https://lds1202.github.io/livewall/customize/phrases/you-can-do-it.png",
+      "thumbnailUrl": "https://lds1202.github.io/livewall/customize/phrases/you-can-do-it.png"
+    }
   ]
 }
