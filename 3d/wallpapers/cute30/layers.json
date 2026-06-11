@@ -1,0 +1,38 @@
+{
+    "mode":  "hybrid",
+    "title":  "Cute Friend D",
+    "thumbnail":  "thumbnail.png",
+    "image":  "background.png",
+    "depthMap":  "depth.png",
+    "subject":  "subject1.png",
+    "subjectDepth":  0.94,
+    "subjectAnchorX":  0.5,
+    "subjectAnchorY":  0.88,
+    "subjectMotionX":  0.08,
+    "subjectMotionY":  0,
+    "backgroundMotionX":  0.18,
+    "backgroundMotionY":  0,
+    "subjectPivotRotationDegrees":  4.8,
+    "subjectScaleByTilt":  0.09,
+    "blinkFrames":  [
+                        "blink_closed.png"
+                    ],
+    "winkFrames":  [
+                       "wink.png"
+                   ],
+    "blinkCloseMs":  46,
+    "blinkClosedMs":  48,
+    "blinkOpenMs":  58,
+    "faceEventSlotMs":  3800,
+    "faceEventSkipPercent":  36,
+    "winkEventPercent":  10,
+    "faceEventStartMinMs":  420,
+    "faceEventStartSpreadMs":  2200,
+    "faceEventSeed":  3000529,
+    "layers":  [
+
+               ],
+    "subjectBreathAmplitudeYRatio":  0.006,
+    "subjectBreathPeriodMs":  2800,
+    "updatedAt":  1781136180000
+}
