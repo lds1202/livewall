@@ -708,6 +708,46 @@
                       "subjectBreathAmplitudeYRatio":  0.0045,
                       "subjectBreathPeriodMs":  3000,
                       "updatedAt":  1781793068831
+                  },
+                  {
+                      "id":  "cute33",
+                      "baseUrl":  "https://lds1202.github.io/livewall/3d/wallpapers/cute33",
+                      "mode":  "hybrid",
+                      "title":  "Space Puppy",
+                      "thumbnail":  "thumbnail.png",
+                      "image":  "background.png",
+                      "depthMap":  "depth.png",
+                      "subject":  "subject1.png",
+                      "subjectDepth":  0.92,
+                      "subjectAnchorX":  0.5,
+                      "subjectAnchorY":  0.7,
+                      "subjectMotionX":  0.07,
+                      "subjectMotionY":  0.018,
+                      "backgroundMotionX":  0.16,
+                      "backgroundMotionY":  0.035,
+                      "subjectPivotRotationDegrees":  2.8,
+                      "subjectScaleByTilt":  0.04,
+                      "blinkFrames":  [
+                                          "blink_closed.png"
+                                      ],
+                      "winkFrames":  [
+                                         "wink.png"
+                                     ],
+                      "blinkCloseMs":  54,
+                      "blinkClosedMs":  62,
+                      "blinkOpenMs":  70,
+                      "faceEventSlotMs":  3600,
+                      "faceEventSkipPercent":  30,
+                      "winkEventPercent":  12,
+                      "faceEventStartMinMs":  420,
+                      "faceEventStartSpreadMs":  2100,
+                      "faceEventSeed":  3300619,
+                      "layers":  [
+
+                                 ],
+                      "subjectBreathAmplitudeYRatio":  0.0045,
+                      "subjectBreathPeriodMs":  3000,
+                      "updatedAt":  1781794408897
                   }
               ]
 }
